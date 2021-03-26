@@ -42,5 +42,5 @@
       <name>GitHub Packages</name>
       <url>https://maven.pkg.github.com/octocat/hello-world</url>
     </repository>
-  </distributionManagement
+  </distributionManagement>
 </project>
